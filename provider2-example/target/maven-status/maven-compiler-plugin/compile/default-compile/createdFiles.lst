@@ -7,5 +7,6 @@ com/metro/response/dto/User.class
 com/metro/AppConfiguration.class
 com/metro/service/LivenessCheckService.class
 com/metro/controller/LivenessCheckController.class
+com/metro/response/dto/Data.class
 com/metro/service/impl/LivenessCheckServiceImpl.class
 com/metro/controller/UserController.class

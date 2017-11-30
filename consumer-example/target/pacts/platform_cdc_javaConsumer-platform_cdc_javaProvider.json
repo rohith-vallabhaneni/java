@@ -18,7 +18,7 @@
                     "Content-Type": "application/json; charset=UTF-8"
                 },
                 "body": {
-                    "name": "Jon",
+                    "name": "John",
                     "id": 1
                 },
                 "matchingRules": {

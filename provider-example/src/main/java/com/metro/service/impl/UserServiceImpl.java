@@ -20,7 +20,7 @@ public class UserServiceImpl implements UserService {
   public User getUserDetails() {
     User user = new User();
     user.setId(1);
-    user.setName("John");
+    user.setName("Rohith");
     return user;
   }
 

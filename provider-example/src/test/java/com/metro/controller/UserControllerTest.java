@@ -23,13 +23,13 @@ import com.metro.AppConfiguration;
  */
 @RunWith(PactRunner.class)
 @Provider("platform_cdc_javaProvider")
-@PactBroker(host = "54.232.203.146", port = "8081")
+@PactBroker(host = "54.233.222.29", port = "8081")
 // @PactFolder("/home/ubuntu/PactServices/Consumer/Consumer/target/pacts")
 @VerificationReports({"console", "markdown"})
 public class UserControllerTest {
 
   @TestTarget
-  public final Target target = new HttpTarget(8080);
+  public final Target target = new HttpTarget(8082);
 
   private static ConfigurableApplicationContext context;
 

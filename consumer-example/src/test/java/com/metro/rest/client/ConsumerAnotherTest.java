@@ -31,7 +31,7 @@ public class ConsumerAnotherTest extends ConsumerPactTestMk2 {
 	protected RequestResponsePact createPact(PactDslWithProvider builder) {
 		return builder.given("test state").uponReceiving("ExampleJavaConsumerPactTest test interaction").path("/data")
 				.method("GET").willRespondWith().status(200)
-				.body(new PactDslJsonBody().integerType("username", "michel").stringValue("password", "michel"))
+				.body(new PactDslJsonBody().stringValue("userName", "michel").stringValue("password", "michel"))
 				.toPact();
 	}
 
