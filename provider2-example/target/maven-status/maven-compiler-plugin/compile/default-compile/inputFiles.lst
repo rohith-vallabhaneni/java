@@ -8,5 +8,5 @@
 /home/ubuntu/java/provider2-example/src/main/java/com/metro/service/ReadinessCheckService.java
 /home/ubuntu/java/provider2-example/src/main/java/com/metro/service/LivenessCheckService.java
 /home/ubuntu/java/provider2-example/src/main/java/com/metro/service/impl/UserServiceImpl.java
-/home/ubuntu/java/provider2-example/src/main/java/com/metro/response/dto/Data.java
 /home/ubuntu/java/provider2-example/src/main/java/com/metro/service/impl/ReadinessCheckServiceImpl.java
+/home/ubuntu/java/provider2-example/src/main/java/com/metro/response/dto/Data.java

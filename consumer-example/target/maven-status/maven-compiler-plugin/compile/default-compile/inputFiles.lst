@@ -1,10 +1,10 @@
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/rest/dto/User.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/controller/ReadinessCheckController.java
-/home/ubuntu/java/consumer-example/src/main/java/com/metro/service/LivenessCheckService.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/rest/client/RestClient.java
+/home/ubuntu/java/consumer-example/src/main/java/com/metro/service/LivenessCheckService.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/controller/LivenessCheckController.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/service/impl/LivenessCheckServiceImpl.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/AppConfiguration.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/service/impl/ReadinessCheckServiceImpl.java
-/home/ubuntu/java/consumer-example/src/main/java/com/metro/service/ReadinessCheckService.java
 /home/ubuntu/java/consumer-example/src/main/java/com/metro/rest/dto/Data.java
+/home/ubuntu/java/consumer-example/src/main/java/com/metro/service/ReadinessCheckService.java
